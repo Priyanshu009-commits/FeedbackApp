@@ -1,0 +1,7 @@
+reactdom.render
+(
+<ReactStrictmode>
+<app/>
+<React Strictmode>,
+documentgetelementById ('root')
+) 
