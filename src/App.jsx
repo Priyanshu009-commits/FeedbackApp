@@ -30,7 +30,7 @@ function App() {
 
   return (
     <FeedbackProvider>
-    <BrowserRouter>
+    <BrowserRouter basename="/FeedbackApp">
       <Header />
       <div className="container">
         <Routes>
